@@ -1,4 +1,4 @@
-# Data World. Tendencias del Mercado Laboral en Data
+# Data World. Tendencias del Mercado Laboral de Data en Latinoamérica
 
 ![Data World](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)
 
