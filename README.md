@@ -47,5 +47,5 @@ Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro e
 - [Catriel - Data Engineer](perezcatriel@gmail.com).
 
 ## Documentación extra
-["Data World" - Notion](https://pinnate-moth-d4f.notion.site/Data-World-Tendencias-del-Mercado-Laboral-c61f044bd0db44988147fc961551666d)
+- ["Data World" - Notion](https://pinnate-moth-d4f.notion.site/Data-World-Tendencias-del-Mercado-Laboral-c61f044bd0db44988147fc961551666d)
 
