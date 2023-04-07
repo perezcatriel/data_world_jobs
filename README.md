@@ -44,7 +44,8 @@ Este proyecto está bajo la licencia **MIT**.
 
 ## Contacto
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
-- [Catriel - Data Engineer](perezcatriel@gmail.com).
+
+![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](perezcatriel@gmail.com)
 
 ## Documentación extra
 - ["Data World" - Notion](https://pinnate-moth-d4f.notion.site/Data-World-Tendencias-del-Mercado-Laboral-c61f044bd0db44988147fc961551666d)
