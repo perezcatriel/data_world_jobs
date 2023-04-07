@@ -2,10 +2,10 @@
 
 ![Data World](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)
 
-
 ## Descripción del proyecto
 
-Recopilación de datos en nuestra nube de Big Data para posterior análisis del mercado laboral latino americano relacionado a los puestos de Data con informes en Power BI. y creación de predicciones automatizadas con ML.
+Recopilación de datos en nuestra nube de Big Data para posterior análisis del mercado laboral latino americano
+relacionado a los puestos de Data con informes en Power BI. y creación de predicciones automatizadas con ML.
 
 ## Instalación
 
@@ -40,13 +40,16 @@ pip install requirements.txt
 6. ¡Excelente contribución y muchas Gracias por tu aporte!
 
 ## Licencia
+
 Este proyecto está bajo la licencia **MIT**.
 
 ## Contacto
+
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
 
 ![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](perezcatriel@gmail.com)
 
 ## Documentación extra
+
 - ["Data World" - Notion](https://pinnate-moth-d4f.notion.site/Data-World-Tendencias-del-Mercado-Laboral-c61f044bd0db44988147fc961551666d)
 
