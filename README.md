@@ -1,7 +1,5 @@
 # Data World. Tendencias del Mercado Laboral en Data
 
-___
-
 ## Descripción del proyecto
 
 Recopilación de datos en nuestra nube de Big Data para posterior análisis del mercado laboral latino americano  
@@ -12,18 +10,17 @@ relacionado a los puestos de Data con informes en Power BI. y creación de predi
 - Clona el repositorio
 
 ```shell
-git clone 
+git clone https://github.com/LRascon/data_world_jobs.git
 ```
 
 - Instala las dependencias
 
-```python
-pip
-install
-requirements.txt
+```.python
+pip install requirements.txt
 ```
 
 ## Usos
+
 1. Accede a la aplicación en el navegador con la dirección `http://localhost:3000`.
 2. Registra una cuenta y accede a la aplicación.
 3. Carga tus datos en la aplicación.
