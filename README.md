@@ -2,8 +2,7 @@
 
 ## Descripción del proyecto
 
-Recopilación de datos en nuestra nube de Big Data para posterior análisis del mercado laboral latino americano  
-relacionado a los puestos de Data con informes en Power BI. y creación de predicciónes automatizadas con ML.
+Recopilación de datos en nuestra nube de Big Data para posterior análisis del mercado laboral latino americano relacionado a los puestos de Data con informes en Power BI. y creación de predicciones automatizadas con ML.
 
 ## Instalación
 
@@ -11,6 +10,7 @@ relacionado a los puestos de Data con informes en Power BI. y creación de predi
 
 ```shell
 git clone https://github.com/LRascon/data_world_jobs.git
+
 ```
 
 - Instala las dependencias
@@ -28,24 +28,21 @@ pip install requirements.txt
 
 ## Contribución
 
-1. Crea una rama nueva con `git checkout -b nombre-de-la-rama`.
+1. Primero, realiza el **Fork** y **clon** del repositorio.
+2. Crea una rama nueva con `git checkout -b nombre-de-la-rama`.
 2. Realiza tus pruebas y crea tus cambios.
-3. Ejecuta las pruebas hasta conseguirlo.
+3. Ejecuta las pruebas hasta conseguirlo, tú puedes.
 4. Crea una **Pull Request**.
-5. Espera a que se apruebe tu solicitud.
-6. Muchas Gracias por tú contribución!
+5. Espera a que se apruebe tu solicitud, buen momento para ir por ese café.
+6. ¡Excelente contribución y muchas Gracias por tu aporte!
 
 ## Licencia
-
 Este proyecto está bajo la licencia **MIT**.
 
 ## Contacto
-
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
-
 - [Catriel - Data Engineer](perezcatriel@gmail.com).
 
 ## Documentación extra
-
 ["Data World" - Notion](https://pinnate-moth-d4f.notion.site/Data-World-Tendencias-del-Mercado-Laboral-c61f044bd0db44988147fc961551666d)
 
