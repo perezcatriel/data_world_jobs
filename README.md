@@ -33,11 +33,11 @@ pip install requirements.txt
 
 1. Primero, realiza el **Fork** y **clon** del repositorio.
 2. Crea una rama nueva con `git checkout -b nombre-de-la-rama`.
-2. Realiza tus pruebas y crea tus cambios.
-3. Ejecuta las pruebas hasta conseguirlo, tú puedes.
-4. Crea una **Pull Request**.
-5. Espera a que se apruebe tu solicitud, buen momento para ir por ese café.
-6. ¡Excelente contribución y muchas Gracias por tu aporte!
+3. Realiza tus pruebas y crea tus cambios.
+4. Ejecuta las pruebas hasta conseguirlo, tú puedes.
+5. Crea una **Pull Request**.
+6. Espera a que se apruebe tu solicitud, buen momento para ir por ese café.
+7. ¡Excelente contribución y muchas Gracias por tu aporte!
 
 ## Licencia
 
@@ -47,7 +47,7 @@ Este proyecto está bajo la licencia **MIT**.
 
 Si tienes preguntas o comentarios, no dudes en ponerte en contacto con nuestro equipo:
 
-![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](perezcatriel@gmail.com)
+![icon](./src/data_engineer.ico) [Catriel - Data Engineer.](mailto:perezcatriel@gmail.com)
 
 ## Documentación extra
 
