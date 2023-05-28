@@ -9,7 +9,7 @@ relacionado a los puestos de Data con informes en Power BI. y creación de predi
 
 ## Instalación
 
-- Clona el repositorio
+- Clona el repositorio con el siguiente comando:
 
 ```shell
 git clone https://github.com/LRascon/data_world_jobs.git
